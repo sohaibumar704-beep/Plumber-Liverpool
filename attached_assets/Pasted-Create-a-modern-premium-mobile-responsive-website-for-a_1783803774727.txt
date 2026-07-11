@@ -1,0 +1,284 @@
+Create a modern, premium, mobile-responsive website for a plumbing company called High Plumber in Liverpool.
+
+The website should feel trustworthy, professional, fast, and designed to maximize phone calls and bookings.
+
+Use a clean white, dark blue, and light blue color scheme.
+
+The design should look similar to a high-end local service business website, with smooth scrolling, subtle animations, rounded cards, icons, shadows, and modern typography.
+
+Business Information
+
+Business Name:
+High Plumber in Liverpool
+
+Phone Number:
++44 151 947 0798
+
+Address:
+145 Alder Rd, Liverpool L12 9ES, United Kingdom
+
+Email:
+info@highplumberinliverpool.shop
+
+Service Area:
+Liverpool and surrounding areas.
+
+Navigation
+
+Home
+
+About
+
+Services
+
+Contact
+
+Book Online
+
+Hero Section
+
+Large professional plumbing background image (use a placeholder image that I can replace later).
+
+Headline:
+
+Reliable Plumbing Services in Liverpool
+
+Subheadline:
+
+Emergency plumbing, boiler repairs, blocked drains, leak repairs and general plumbing services delivered by experienced local plumbers.
+
+Primary Button:
+
+📞 Call Now
+
+(Button should call +44 151 947 0798)
+
+Secondary Button:
+
+Book Online
+
+(The button should currently link to # and be easy for me to replace with my Calendly link later.)
+
+Services Section
+
+Display services as modern cards with icons.
+
+Emergency Plumbing
+
+Leak Detection
+
+Pipe Repairs
+
+Blocked Drains
+
+Boiler Repairs
+
+Bathroom Plumbing
+
+Kitchen Plumbing
+
+Toilet Repairs
+
+Tap Installation
+
+General Plumbing
+
+Why Choose Us
+
+Display with icons.
+
+Fast Response Times
+
+Affordable Pricing
+
+Experienced Local Plumbers
+
+Emergency Call Outs
+
+Residential & Commercial
+
+Customer Satisfaction
+
+Fully Insured
+
+About Section
+
+Write a professional About Us section explaining that High Plumber in Liverpool provides reliable plumbing services with honest pricing, quality workmanship and fast response times across Liverpool.
+
+Service Areas
+
+Liverpool
+
+Anfield
+
+Bootle
+
+Allerton
+
+Childwall
+
+West Derby
+
+Kirkby
+
+Prescot
+
+Huyton
+
+Crosby
+
+Woolton
+
+Booking Section
+
+Large CTA section.
+
+Headline:
+
+Need a Plumber Today?
+
+Button:
+
+Book Online
+
+(Currently link to #)
+
+Text should explain online booking will be available soon.
+
+Contact Section
+
+Display:
+
+Phone
+
+Address
+
+Email
+
+Embedded Google Maps placeholder.
+
+Large Call Now button.
+
+Gallery
+
+Create a modern gallery with placeholder plumbing images that I can replace later.
+
+Reviews
+
+Create a Testimonials section but populate it with a message:
+
+"Customer reviews will be added soon."
+
+Do NOT generate fake reviews.
+
+FAQ
+
+Include FAQs.
+
+Do you offer emergency plumbing?
+
+What areas do you cover?
+
+Do you provide free quotes?
+
+Can I book online?
+
+Footer
+
+Include:
+
+Business Name
+
+Phone
+
+Address
+
+Email
+
+Privacy Policy
+
+Terms & Conditions
+
+Cookie Policy
+
+Additional Pages
+
+Generate:
+
+About
+
+Services
+
+Contact
+
+Privacy Policy
+
+Terms & Conditions
+
+Cookie Policy
+
+404 Page
+
+SEO
+
+Optimize every page for:
+
+Emergency Plumber Liverpool
+
+Plumber Liverpool
+
+Plumbing Services Liverpool
+
+Blocked Drains Liverpool
+
+Leak Repair Liverpool
+
+Boiler Repairs Liverpool
+
+Generate:
+
+Meta Titles
+
+Meta Descriptions
+
+Open Graph tags
+
+Twitter Card tags
+
+robots.txt
+
+sitemap.xml
+
+LocalBusiness schema markup
+
+NAP consistency throughout the site.
+
+Mobile
+
+The website must be fully responsive.
+
+Sticky navigation.
+
+Floating Call button on mobile.
+
+Click-to-call phone numbers.
+
+Fast loading.
+
+Images
+
+Use placeholders only.
+
+Every placeholder should be easy for me to replace later with real plumbing photos.
+
+Performance
+
+Generate clean HTML, CSS and JavaScript.
+
+No unnecessary libraries.
+
+SEO optimized.
+
+Accessible.
+
+Cloudflare Pages compatible
