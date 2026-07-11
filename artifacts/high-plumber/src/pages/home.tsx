@@ -331,25 +331,6 @@ export default function Home() {
           </div>
         </section>
 
-        {/* Reviews */}
-        <section className="py-24 bg-white">
-          <div className="container mx-auto px-4 md:px-6">
-            <div className="max-w-2xl mx-auto">
-              <Card className="border-border/50 bg-gray-50 shadow-sm">
-                <CardContent className="pt-12 pb-12 px-8 text-center">
-                  <div className="flex justify-center gap-1 mb-6">
-                    {[1, 2, 3, 4, 5].map((star) => (
-                      <Star key={star} className="w-6 h-6 fill-yellow-400 text-yellow-400 opacity-30" />
-                    ))}
-                  </div>
-                  <p className="text-2xl font-serif italic text-muted-foreground/80">
-                    "Customer reviews will be added soon."
-                  </p>
-                </CardContent>
-              </Card>
-            </div>
-          </div>
-        </section>
 
         {/* FAQ */}
         <section className="py-24 bg-gray-50">
