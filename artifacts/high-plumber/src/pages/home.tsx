@@ -1,9 +1,15 @@
 import { useEffect, useState } from "react";
 import { Link } from "wouter";
+import galleryImg1 from "@assets/03087229d_generated_b3f6298e_1783808414571.png";
+import galleryImg2 from "@assets/11b38e84f_generated_21012191_1783808420806.png";
+import galleryImg3 from "@assets/296d94645_generated_9d52d011_1783808427410.png";
+import galleryImg4 from "@assets/5810f36ad_generated_0abffc06_1783808434064.png";
+import galleryImg5 from "@assets/6b58cc5e1_generated_8077c9f5_1783808446023.png";
+import galleryImg6 from "@assets/96a51eecc_generated_07d11d22_1783808458462.png";
 import { motion, useScroll, useTransform } from "framer-motion";
 import { 
   Menu, X, Phone, Wrench, Droplet, Hammer, Clock, 
-  MapPin, Mail, ShieldCheck, ThumbsUp, Star, ChevronDown, Camera
+  MapPin, Mail, ShieldCheck, ThumbsUp, Star, ChevronDown
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
@@ -321,10 +327,13 @@ export default function Home() {
             </div>
             
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
-              {[1, 2, 3, 4, 5, 6].map((item) => (
-                <div key={item} className="aspect-square bg-white rounded-2xl border border-border/50 flex flex-col items-center justify-center text-muted-foreground hover:bg-gray-100 transition-colors cursor-pointer group shadow-sm">
-                  <Camera className="w-12 h-12 mb-4 opacity-40 group-hover:opacity-60 group-hover:scale-110 transition-all duration-300" />
-                  <span className="text-sm font-medium opacity-60">Plumbing photo — replace with real image</span>
+              {[galleryImg1, galleryImg2, galleryImg3, galleryImg4, galleryImg5, galleryImg6].map((src, i) => (
+                <div key={i} className="aspect-square rounded-2xl overflow-hidden shadow-sm border border-border/50 group">
+                  <img
+                    src={src}
+                    alt={`Plumbing work example ${i + 1}`}
+                    className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                  />
                 </div>
               ))}
             </div>
